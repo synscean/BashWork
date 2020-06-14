@@ -1,0 +1,2 @@
+# BashWork
+Just for learning.
